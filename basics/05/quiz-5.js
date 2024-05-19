@@ -5,4 +5,4 @@ for (let i=0; i<5; i++) {
     setTimeout(()=>{
         console.log(arr[i]);
     }, i*1000);
-}
+}ㅂ
